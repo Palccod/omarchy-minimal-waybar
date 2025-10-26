@@ -9,10 +9,16 @@ A minimal waybar with cava and yeah, it adopts with your themes/wallpapers.
 
 # Make the scripts executable
 ```bash
-   chmod +x cava.sh
+   chmod +x ~/.config/waybar/scripts/cava.sh
 ```
 ```bash
-   chmod +x todo.sh
+   chmod +x ~/.config/waybar/scripts/todo.sh
+```
+<br>
+
+Run this on your terminal to restart your waybar
+``` bash
+omarchy-restart-waybar
 ```
 <br>
 
@@ -20,6 +26,8 @@ A minimal waybar with cava and yeah, it adopts with your themes/wallpapers.
 Preview:
 
 <img width="1921" height="427" alt="screenshot-2025-10-26_02-58-13" src="https://github.com/user-attachments/assets/a3e9689a-918c-48aa-8ad1-50f93cc49832" />
+
+<br>
 
 
 <img width="1921" height="47" alt="screenshot-2025-10-26_02-58-30" src="https://github.com/user-attachments/assets/ee2beb44-4119-4df5-ab13-1841db51364f" />
