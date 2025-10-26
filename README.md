@@ -1,10 +1,14 @@
 # omarchy-minimal-waybar
 A minimal waybar with cava and yeah, it adopts with your themes/wallpapers.
 
-# Install dependencies for cava bar (using Arch-Linux)
+# Install dependencies for cava bar and to-do (using Arch-Linux)
+  only if needed
 
 ```bash
   sudo yay -S cava
+```
+```bash
+  sudo yay -S calcurse
 ```
 
 # Make the scripts executable
